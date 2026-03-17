@@ -1,14 +1,14 @@
-TITLE: The Lost Bay #Blog title
-URL: 'https://www.thelostbayrpg.com/' # Blog url, we use it to generate sitemap
+TITLE: Collection of Fleeting thoughts #Blog title
+URL: 'https://fleetingxe.github.com/' # Blog url, we use it to generate sitemap
 BASE: '' # Blog base folder is any, most of the timme just ''
-DESCRIPTION: Suburban Gothic RPG # Blog descriptioj
+DESCRIPTION: Atomic logs # Blog description
 LANG: EN # Blog language
-DATE_LANG: fr # Blog date format fr for dd/mm/yyyy en-US for mm/dd/yyyy
+DATE_LANG: en-US # Blog date format fr for dd/mm/yyyy en-US for mm/dd/yyyy
 SITE_BANNER: false # Show site on top
 STYLE: sans # Defaut blog style sans | serif | sans-and-serif | serif-and-sans
-AUTHOR: IKO # Author name
-CONTACT: true # Set to false to omit email/contact link in header
-EMAIL: iko@thecodedtype.com # Email
+AUTHOR: Xenon # Author name
+CONTACT: false # Set to false to omit email/contact link in header
+EMAIL: false # Email
 POST_COVER: false # Show post cover in post page
 # MY_SWITCH: true #uncomment to add additional link to header.
 # MY_LINK: https://link.to.something #copy structure for further links.
@@ -17,8 +17,8 @@ POST_THUMBNAILS: true # Show post cover in lists of posts
 POST_SUGGESTIONS: false # Suggest more posts to read based on tags
 HOME_NB_POSTS: 6 # Number of posts to show on the home page
 MENU: # Main menu 
-  - label: Zines # Example menu label
-    url: http://www.thelostbaystudio.com # Example menu url
+  - label: Home # Example menu label
+    url: http://fleetingxe.github.com # Example menu url
   - label: rss
     url: https://thelostbayrpg.com/rss.xml
 
