@@ -18,7 +18,7 @@ POST_SUGGESTIONS: false # Suggest more posts to read based on tags
 HOME_NB_POSTS: 6 # Number of posts to show on the home page
 MENU: # Main menu 
   - label: Home # Example menu label
-    url: http://fleetingxe.github.com # Example menu url
+    url: http://fleetingxe.github.com/fleetingxe # Example menu url
   - label: rss
     url: https://thelostbayrpg.com/rss.xml
 
